@@ -57,6 +57,8 @@ fastavro==1.7.3
 fasteners==0.18
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1677336799617/work/dist
 filelock==3.12.0
+Flask==2.2.5
+Flask-Cors==3.0.10
 flatbuffers==23.3.3
 flit_core @ file:///home/conda/feedstock_root/build_artifacts/flit-core_1667734568827/work/source/flit_core
 fonttools==4.38.0
@@ -118,6 +120,7 @@ ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_165124055363
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
 ipywidgets==8.0.6
+itsdangerous==2.1.2
 jaraco.classes==3.2.3
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1669134318875/work
 jeepney==0.8.0
@@ -150,7 +153,7 @@ llvmlite==0.39.1
 lz4==4.3.2
 Markdown==3.4.3
 markdown-it-py==2.2.0
-MarkupSafe==2.0.1
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1648737551960/work
 matplotlib==3.5.3
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
 mdit-py-plugins==0.3.5
@@ -308,7 +311,7 @@ visions==0.7.5
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
 webencodings==0.5.1
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1675567828044/work
-Werkzeug==2.1.2
+Werkzeug==2.2.3
 widgetsnbextension==4.0.7
 witwidget==1.8.1
 wrapt==1.15.0
